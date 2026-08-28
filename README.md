@@ -1,4 +1,4 @@
-﻿# Interactive Stock Theory Lab (Hackonomics 2026)
+﻿# Interactive Stock Theory Lab 
 
 ## 1) Project Overview
 `Interactive Stock Theory Lab` is an educational web application that helps users learn finance theories using overseas stock market data.  
